@@ -4,3 +4,4 @@ Aprendi a:
 - usar git add 
 - usar git commit 
 - usar git push
+- entender histórico de versões
