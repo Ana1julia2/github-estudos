@@ -1,0 +1,1 @@
+Já estou entendendo melhor o git
