@@ -11,3 +11,10 @@
 
 ✨ Aprendizado:
 - Não preciso ter medo de errar
+
+## Dia 1 – Lógica
+SE estiver com sono
+- descansar
+
+SENÃO
+- estudar 20 minutos
