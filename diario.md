@@ -27,3 +27,13 @@ SE idade >= 18
     mostrar "Pode dirigir"
 SENÃO
     mostrar "Não pode dirigir"
+
+ ## Dia 2 – Aula 11
+
+nome = "Ana"
+idade = 17
+
+SE idade >= 18
+    mostrar "Entrada liberada"
+SENÃO
+    mostrar "Entrada negada"   
