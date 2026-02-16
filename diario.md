@@ -18,3 +18,12 @@ SE estiver com sono
 
 SENÃO
 - estudar 20 minutos
+
+## Dia 2 - Pseudocódigo
+
+idade = 18
+
+SE idade >= 18
+    mostrar "Pode dirigir"
+SENÃO
+    mostrar "Não pode dirigir"
